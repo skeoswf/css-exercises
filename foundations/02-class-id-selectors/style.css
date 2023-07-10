@@ -5,4 +5,9 @@
 
 #num2 {
     color: #0000ff;
+    font-size: 36px;
+}
+
+.odd-numbered-element.num3 {
+    font-size: 24px;
 }
