@@ -7,7 +7,7 @@
     background-color: yellow;
 }
 
-button {
+.click1, .click2 {
     font-size: 28px;
     font-family: Arial, Helvetica, sans-serif;
 }
